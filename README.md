@@ -53,7 +53,9 @@
 
 ## Resources
 https://medium.com/@peterkellyonline/what-makes-a-great-software-manager-33077e0167eb
+
 https://www.infoq.com/articles/development-manager-role
+
 https://www.quora.com/What-are-the-characteristics-of-a-bad-software-engineering-manager
 
 
