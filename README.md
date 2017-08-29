@@ -2,11 +2,16 @@
 #### Found a great resource? Add it by submitting a Pull Request!
 
 
+## Quotes worth thinking about
+ > The highest form which civilization can reach is a seamless web of deserved trust. Not much procedure, just totally reliable people correctly trusting one another.   --Charlie Munger
+
+ > A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves. -- Lau Tsu
+
+
+
 ## Questions to answer
- 
 
 ### What skills are essential?
-  > The highest form which civilization can reach is a seamless web of deserved trust. Not much procedure, just totally reliable people correctly trusting one another.   --Charlie Munger
 
 - leadership skills
 - talented software developer who knows good programming practices and principles
