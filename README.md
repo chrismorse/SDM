@@ -23,8 +23,9 @@
 
 
 ### What are the typical functions?
-- hiring, nurturing, coaching, maintaining and organising a team of humans and managing that team to success on projects
 - achieve business objectives
+- hiring, nurturing, coaching, maintaining and organising a team and managing that team to success on projects
+- creating an environment in which people can become successful
 - acts as a filter to keep team focused
 - performance reviews, holiday requests, dealing with team conflicts and personal issues
   
