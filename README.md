@@ -7,6 +7,7 @@
 
  > A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves. -- Lau Tsu
 
+> Nothing is more rewarding than sharing the adventure of building something that truly matters with engaged teammates.  --Atlassian
 
 
 ## Questions to answer
