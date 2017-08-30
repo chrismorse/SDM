@@ -13,7 +13,6 @@
 ## Questions to answer
 
 ### What skills are essential?
-
 - leadership skills
 - talented software developer who knows good programming practices and principles
 - interested in development and growth of team members
@@ -24,10 +23,13 @@
 
 
 ### What are the typical functions?
+- drive technical direction and architecture
 - achieve business objectives
 - hiring, nurturing, coaching, maintaining and organising a team and managing that team to success on projects
-- creating an environment in which people can become successful
-- acts as a filter to keep team focused
+- creating an environment in which people can be successful
+- take ambiguous problems and break them down to their simple parts. 
+- naturally elevate the performance of the people around you.
+- act as a filter to keep team focused
 - performance reviews, holiday requests, dealing with team conflicts and personal issues
   
 
