@@ -25,8 +25,8 @@
 ### What are the typical functions?
 - drive technical direction and architecture
 - achieve business objectives
-- hiring, nurturing, coaching, maintaining and organising a team and managing that team to success on projects
-- creating an environment in which people can be successful
+- hirie, nurture, coach, maintain and organize a team and manage that team to success on projects
+- create an environment in which people can be successful
 - take ambiguous problems and break them down to their simple parts. 
 - naturally elevate the performance of the people around you.
 - act as a filter to keep team focused
