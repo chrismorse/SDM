@@ -24,6 +24,7 @@
 
 
 ### What are the typical functions?
+- build and run services
 - drive technical direction and architecture
 - achieve business objectives
 - hire, nurture, coach, maintain and organize a team and manage that team to success on projects
