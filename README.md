@@ -24,7 +24,7 @@
 
 
 ### What are the typical functions?
-- build and run services
+- build and run services - meet the needs of functionality, quality, performance, reliability, and improvements at minimum cost and effort
 - drive technical direction and architecture
 - achieve business objectives
 - hire, nurture, coach, maintain and organize a team and manage that team to success on projects
