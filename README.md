@@ -1,4 +1,4 @@
-# What makes a great Software Development Manager
+# What makes a great Software Development Manager?
 #### Found a great resource? Add it by submitting a Pull Request!
 
 
