@@ -17,6 +17,7 @@
 - talented software developer who knows good programming practices and principles
 - interested in development and growth of team members
 - great people skills
+- project management skills
 - healthy dose of common sense
 - not afraid of dealing with conflict
 - ability to trust his/her team by supporting their technical decisions and not enforcing rigid technical requirements
