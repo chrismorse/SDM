@@ -65,5 +65,5 @@ https://www.infoq.com/articles/development-manager-role
 
 https://www.quora.com/What-are-the-characteristics-of-a-bad-software-engineering-manager
 
-
+https://www.atlassian.com/agile/teams
 
