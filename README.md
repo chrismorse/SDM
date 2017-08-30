@@ -32,6 +32,8 @@
 - naturally elevate the performance of the people around you.
 - act as a filter to keep team focused
 - performance reviews, holiday requests, dealing with team conflicts and personal issues
+- develop engineers through various career stages 
+- present complex technical information in a clear and concise manner to a variety of audiences
   
 
 ### What makes a bad Software Development Manager?
