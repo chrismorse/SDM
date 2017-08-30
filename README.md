@@ -14,9 +14,9 @@
 
 ### What skills are essential?
 - leadership skills
-- talented software developer who knows good programming practices and principles
-- interested in development and growth of team members
-- great people skills
+- solid software developer skills - including good programming practices and principles
+- people management skills - development and growth of team members
+- communication skills
 - project management skills
 - healthy dose of common sense
 - not afraid of dealing with conflict
