@@ -41,10 +41,10 @@
   > Invert, always invert.   -- Carl Jacobi
   
   - Constantly changes team focus
-  - Someone who lets his/her team over-engineer solutions that don't need customer needs
+  - Lets his/her team over-engineer solutions 
+  - Lets his/her team create solutions that don't meet customer needs
   - Managers who tolerate disruptive people and behaviour
   - Micromanager
-  - Doesn't understand technical matters, but pretends he/she does.
   - Plays favorites
   - Cares more about his/her personal success than about the success of the team
   - Drives good people out of his/her team
