@@ -40,19 +40,19 @@
 ### What makes a bad Software Development Manager?
   > Invert, always invert.   -- Carl Jacobi
   
-  - Constantly changes team focus
-  - Lets his/her team over-engineer solutions 
-  - Lets his/her team create solutions that don't meet customer needs
-  - Managers who tolerate disruptive people and behaviour
-  - Micromanager
-  - Plays favorites
-  - Cares more about his/her personal success than about the success of the team
-  - Drives good people out of his/her team
-  - Publicly criticizes, chastices, and belittles
-  - Not being technically competent and relevant, then being defensive about it and trying to overcompensate.
-  - Hires Bs and Cs, rather than As
-  - Takes credit for what others have done
-  - Unable to accept feedback, criticism, or suggestions
+  - constantly changes team focus
+  - lets his/her team over-engineer solutions 
+  - lets his/her team create solutions that don't meet customer needs
+  - tolerates disruptive people and behaviour
+  - micromanages
+  - plays favorites
+  - cares more about his/her personal success than about the success of the team
+  - drives good people out of his/her team
+  - publicly criticizes, chastices, and belittles
+  - not being technically competent and relevant, then being defensive about it and trying to overcompensate.
+  - hires Bs and Cs, rather than As
+  - takes credit for what others have done
+  - unable to accept feedback, criticism, or suggestions
   
   
   
